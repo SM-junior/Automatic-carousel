@@ -1,5 +1,5 @@
 
-img=["img/hotel-1.jpeg", "img/hotel-2.jpeg", "img/hotel-3.jpeg", "img/hotel-2.jpeg"];
+let img=["img/hotel-1.jpeg", "img/hotel-2.jpeg", "img/hotel-3.jpeg", "img/hotel-2.jpeg"];
 
 let sliderImg=document.getElementById('sliderImg');
 var imgIndex=0;
